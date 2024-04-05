@@ -8,4 +8,4 @@ JavaScript Projects
 - Keyboard Tracker
 - Random Image Generator
 #
-[connect me on linkdein](https://www.linkedin.com/in/rutvik-raut/)
+[connect me on LinkedIn](https://www.linkedin.com/in/rutvik-raut/)
